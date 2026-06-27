@@ -1,0 +1,6 @@
+{
+  "name": "Skup Antyków – Opole",
+  "description": "Profesjonalny skup antyków, staroci i biżuterii w Opolu. Dojazd do klienta, gotówka od ręki, darmowa wycena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
